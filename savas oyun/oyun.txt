@@ -1,0 +1,381 @@
+Oyun basliyor!
+
+Bilgisayar icin rastgele secilen 6 kart:
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncunun sectigi  6 kart:
+Obￃﾼs 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 2 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+--- TUR 1 ---
+Bilgisayar'a normal bir kart eklendi: Obￃﾼs 3
+Oyuncu'ya normal bir kart eklendi: Firkateyn 1
+Bilgisayar'ￄﾱn bu tur icin sectigi kartlar:
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Bilgisayar Kalan Kartlar:
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncu'nun bu tur icin sectigi kartlar:
+Obￃﾼs 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 2 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Oyuncu  Kalan Kartlar:
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 3 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Kart Karsￄﾱlastirmasi 1
+Oyunucu- ID: Obￃﾼs 3, Dayaniklilik: 20, Vurus Gucu: 10
+Bilgisayar - ID: Uￃﾧak 3, Dayaniklilik: 20, Vurus Gucu: 10
+Obￃﾼs 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Uￃﾧak 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 10
+Bilgisar kazandￄﾱ: Obￃﾼs 3 elendi! 
+Her iki kart da savasa devam ediyor!
+Bilgisayar skor:10
+ￄﾰnsan skor : 0
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Obￃﾼs 3 vs Kart 2: Uￃﾧak 3
+
+Kart Karsￄﾱlastirmasi 2
+Oyunucu- ID: Uￃﾧak 2, Dayaniklilik: 20, Vurus Gucu: 10
+Bilgisayar - ID: Uￃﾧak 2, Dayaniklilik: 20, Vurus Gucu: 10
+Uￃﾧak 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 10
+Uￃﾧak 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Uￃﾧak 2 elendi! 
+ￄﾰnsan kazandￄﾱ: Uￃﾧak 2 elendi!
+Bilgisayar skor:20
+ￄﾰnsan skor : 20
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Uￃﾧak 2 vs Kart 2: Uￃﾧak 2
+
+Kart Karsￄﾱlastirmasi 3
+Oyunucu- ID: Firkateyn 2, Dayaniklilik: 25, Vurus Gucu: 10
+Bilgisayar - ID: Uￃﾧak 1, Dayaniklilik: 20, Vurus Gucu: 10
+Firkateyn 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 15
+Uￃﾧak 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 5
+Her iki kart da savasa devam ediyor!
+Bilgisayar skor:20
+ￄﾰnsan skor : 20
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Firkateyn 2 vs Kart 2: Uￃﾧak 1
+
+Tur Sonrasi Bilgisayar Kart Havuzu:
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Tur Sonrasi Oyuncu Kart Havuzu:
+Firkateyn 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+--- TUR 2 ---
+Bilgisayar'a normal bir kart eklendi: Obￃﾼs 2
+Oyuncu'ya normal bir kart eklendi: Uￃﾧak 1
+Bilgisayar'ￄﾱn bu tur icin sectigi kartlar:
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Bilgisayar Kalan Kartlar:
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncu'nun bu tur icin sectigi kartlar:
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Oyuncu  Kalan Kartlar:
+Uￃﾧak 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 25, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 20, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Kart Karsￄﾱlastirmasi 1
+Oyunucu- ID: Obￃﾼs 1, Dayaniklilik: 20, Vurus Gucu: 10
+Bilgisayar - ID: Obￃﾼs 2, Dayaniklilik: 20, Vurus Gucu: 10
+Obￃﾼs 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 10
+Obￃﾼs 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 10
+Her iki kart da savasa devam ediyor!
+Bilgisayar skor:20
+ￄﾰnsan skor : 20
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Obￃﾼs 1 vs Kart 2: Obￃﾼs 2
+
+Kart Karsￄﾱlastirmasi 2
+Oyunucu- ID: Firkateyn 1, Dayaniklilik: 25, Vurus Gucu: 10
+Bilgisayar - ID: Firkateyn 3, Dayaniklilik: 25, Vurus Gucu: 10
+Firkateyn 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 15
+Firkateyn 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 15
+Her iki kart da savasa devam ediyor!
+Bilgisayar skor:20
+ￄﾰnsan skor : 20
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Firkateyn 1 vs Kart 2: Firkateyn 3
+
+Kart Karsￄﾱlastirmasi 3
+Oyunucu- ID: Uￃﾧak 1, Dayaniklilik: 5, Vurus Gucu: 10
+Bilgisayar - ID: Uￃﾧak 1, Dayaniklilik: 5, Vurus Gucu: 10
+Uￃﾧak 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Uￃﾧak 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Uￃﾧak 1 elendi! 
+ￄﾰnsan kazandￄﾱ: Uￃﾧak 1 elendi!
+Bilgisayar skor:30
+ￄﾰnsan skor : 40
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Uￃﾧak 1 vs Kart 2: Uￃﾧak 1
+
+Tur Sonrasi Bilgisayar Kart Havuzu:
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Tur Sonrasi Oyuncu Kart Havuzu:
+Firkateyn 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+--- TUR 3 ---
+Bilgisayar'a ozel bir kart eklendi: Siha 3
+Oyuncu'ya ozel bir kart eklendi: KFS 1
+Bilgisayar'ￄﾱn bu tur icin sectigi kartlar:
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Bilgisayar Kalan Kartlar:
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncu'nun bu tur icin sectigi kartlar:
+KFS 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Oyuncu  Kalan Kartlar:
+Uￃﾧak 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 1 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Kart Karsￄﾱlastirmasi 1
+Oyunucu- ID: KFS 1, Dayaniklilik: 10, Vurus Gucu: 10
+Bilgisayar - ID: Obￃﾼs 2, Dayaniklilik: 10, Vurus Gucu: 10
+KFS 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Obￃﾼs 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: KFS 1 elendi! 
+ￄﾰnsan kazandￄﾱ: Obￃﾼs 2 elendi!
+Bilgisayar skor:40
+ￄﾰnsan skor : 50
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: KFS 1 vs Kart 2: Obￃﾼs 2
+
+Kart Karsￄﾱlastirmasi 2
+Oyunucu- ID: Obￃﾼs 1, Dayaniklilik: 10, Vurus Gucu: 10
+Bilgisayar - ID: Uￃﾧak 3, Dayaniklilik: 10, Vurus Gucu: 10
+Obￃﾼs 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Uￃﾧak 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Obￃﾼs 1 elendi! 
+ￄﾰnsan kazandￄﾱ: Uￃﾧak 3 elendi!
+Bilgisayar skor:60
+ￄﾰnsan skor : 70
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Obￃﾼs 1 vs Kart 2: Uￃﾧak 3
+
+Kart Karsￄﾱlastirmasi 3
+Oyunucu- ID: Firkateyn 2, Dayaniklilik: 15, Vurus Gucu: 10
+Bilgisayar - ID: Siha 3, Dayaniklilik: 15, Vurus Gucu: 10
+Firkateyn 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Siha 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Firkateyn 2 elendi! 
+ￄﾰnsan kazandￄﾱ: Siha 3 elendi!
+Bilgisayar skor:70
+ￄﾰnsan skor : 80
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Firkateyn 2 vs Kart 2: Siha 3
+Bilgisayar'a yeni kart eklendi: Siha 1
+Oyuncu'ya yeni kart eklendi: Siha 2
+
+Tur Sonrasi Bilgisayar Kart Havuzu:
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Tur Sonrasi Oyuncu Kart Havuzu:
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+--- TUR 4 ---
+Bilgisayar'a ozel bir kart eklendi: KFS 3
+Oyuncu'ya ozel bir kart eklendi: Sida 2
+Bilgisayar'ￄﾱn bu tur icin sectigi kartlar:
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Bilgisayar Kalan Kartlar:
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncu'nun bu tur icin sectigi kartlar:
+Siha 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Firkateyn 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 2 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Oyuncu  Kalan Kartlar:
+Firkateyn 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 3 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Kart Karsￄﾱlastirmasi 1
+Oyunucu- ID: Siha 2, Dayaniklilik: 15, Vurus Gucu: 10
+Bilgisayar - ID: Firkateyn 3, Dayaniklilik: 15, Vurus Gucu: 10
+Siha 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 5
+Firkateyn 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+ￄﾰnsan kazandￄﾱ: Firkateyn 3 elendi!
+Bilgisayar skor:70
+ￄﾰnsan skor : 90
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Siha 2 vs Kart 2: Firkateyn 3
+
+Kart Karsￄﾱlastirmasi 2
+Oyunucu- ID: Firkateyn 1, Dayaniklilik: 15, Vurus Gucu: 10
+Bilgisayar - ID: Siha 1, Dayaniklilik: 15, Vurus Gucu: 10
+Firkateyn 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Siha 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 5
+Bilgisar kazandￄﾱ: Firkateyn 1 elendi! 
+Her iki kart da savasa devam ediyor!
+Bilgisayar skor:80
+ￄﾰnsan skor : 90
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Firkateyn 1 vs Kart 2: Siha 1
+
+Kart Karsￄﾱlastirmasi 3
+Oyunucu- ID: Sida 2, Dayaniklilik: 15, Vurus Gucu: 10
+Bilgisayar - ID: KFS 3, Dayaniklilik: 10, Vurus Gucu: 10
+Sida 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+KFS 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Sida 2 elendi! 
+ￄﾰnsan kazandￄﾱ: KFS 3 elendi!
+Bilgisayar skor:90
+ￄﾰnsan skor : 100
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Sida 2 vs Kart 2: KFS 3
+Bilgisayar'a yeni kart eklendi: Sida 1
+Oyuncu'ya yeni kart eklendi: Sida 3
+
+Tur Sonrasi Bilgisayar Kart Havuzu:
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Tur Sonrasi Oyuncu Kart Havuzu:
+Siha 2 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+--- TUR 5 ---
+Bilgisayar'a ozel bir kart eklendi: KFS 2
+Oyuncu'ya normal bir kart eklendi: Obￃﾼs 2
+Bilgisayar'ￄﾱn bu tur icin sectigi kartlar:
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Bilgisayar Kalan Kartlar:
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Oyuncu'nun bu tur icin sectigi kartlar:
+Obￃﾼs 2 - Dayanￄﾱklￄﾱlￄﾱk: 0, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 3 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Siha 2 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+ Oyuncu  Kalan Kartlar:
+Siha 1 - Dayanￄﾱklￄﾱlￄﾱk: 5, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+Sida 1 - Dayanￄﾱklￄﾱlￄﾱk: 15, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+KFS 2 - Dayanￄﾱklￄﾱlￄﾱk: 10, Vuruￅﾟ Gￃﾼcￃﾼ: 10
+
+Kart Karsￄﾱlastirmasi 1
+Oyunucu- ID: Obￃﾼs 2, Dayaniklilik: 0, Vurus Gucu: 10
+Bilgisayar - ID: Siha 1, Dayaniklilik: 5, Vurus Gucu: 10
+Obￃﾼs 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Siha 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Obￃﾼs 2 elendi! 
+ￄﾰnsan kazandￄﾱ: Siha 1 elendi!
+Bilgisayar skor:110
+ￄﾰnsan skor : 130
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Obￃﾼs 2 vs Kart 2: Siha 1
+
+Kart Karsￄﾱlastirmasi 2
+Oyunucu- ID: Sida 3, Dayaniklilik: 15, Vurus Gucu: 10
+Bilgisayar - ID: KFS 2, Dayaniklilik: 10, Vurus Gucu: 10
+Sida 3 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+KFS 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Sida 3 elendi! 
+ￄﾰnsan kazandￄﾱ: KFS 2 elendi!
+Bilgisayar skor:120
+ￄﾰnsan skor : 140
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Sida 3 vs Kart 2: KFS 2
+
+Kart Karsￄﾱlastirmasi 3
+Oyunucu- ID: Siha 2, Dayaniklilik: 5, Vurus Gucu: 10
+Bilgisayar - ID: Sida 1, Dayaniklilik: 15, Vurus Gucu: 10
+Siha 2 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Sida 1 Gￃﾼncellenen Dayanￄﾱklￄﾱlￄﾱk: 0
+Bilgisar kazandￄﾱ: Siha 2 elendi! 
+ￄﾰnsan kazandￄﾱ: Sida 1 elendi!
+Bilgisayar skor:130
+ￄﾰnsan skor : 160
+HATA: karsilastirmaArea baￅﾟlatￄﾱlmamￄﾱￅﾟ!
+Kart 1: Siha 2 vs Kart 2: Sida 1
+Bilgisayar'a yeni kart eklendi: Uￃﾧak 2
+Oyuncu'ya yeni kart eklendi: Obￃﾼs 1
+
+Tur Sonrasi Bilgisayar Kart Havuzu:
+Uￃﾧak 2 - Dayanￄﾱklￄﾱlￄ
